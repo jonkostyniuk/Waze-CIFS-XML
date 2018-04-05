@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gstatic.com/road-incidents/incidents_feed.xsd" timestamp="2018-03-19T14:33:29-05:00">
+  <incident id="12167">
+    <creationtime>2017-05-15T00:00:00-05:00</creationtime>
+    <updatetime>2018-03-17T00:00:00-05:00</updatetime>
+    <type>ROAD_CLOSED</type>
+    <description>Bridge replacement; Curb and gutter; Road widening</description>
+    <short_description>Road closed; Lane restrictions and delays</short_description>
+    <location>
+      <street>WHARNCLIFFE RD N</street>
+      <polyline>42.992199 -81.264977 42.993580 -81.265706</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2017-05-15T00:00:00-05:00</starttime>
+    <endtime>2019-06-28T00:00:00-05:00</endtime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+  </incident>
+  <!-- ADD ADDITIONAL INCIDENTS TO CIFS XML HERE -->
+</incidents>

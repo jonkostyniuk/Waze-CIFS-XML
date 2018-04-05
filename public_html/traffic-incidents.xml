@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.gstatic.com/road-incidents/incidents_feed.xsd" timestamp="2018-04-04T12:31:32-05:00">
+  <incident id="20815">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Caution workers present</description>
+    <location>
+      <street>Adevon Ave</street>
+      <polyline>42.9750281376 -81.3014164201 42.9745407164 -81.3015511039 42.9735828161 -81.3010420526</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-01T20:00:00-05:00</starttime>
+    <endtime>2018-05-31T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="18772">
+    <creationtime>2018-04-03T12:13:39-05:00</creationtime>
+    <updatetime>2018-04-03T12:13:39-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Base Line Rd W</street>
+      <polyline>42.95797751 -81.2756407504 42.9578763199 -81.2769324438 42.9577935717 -81.2776914257 42.9577828323 -81.2778817367 42.957782295 -81.2781029637 42.957802365 -81.2783037035 42.9578327264 -81.2784993454 42.9579486417 -81.2788540613 42.9580304441 -81.2790293574 42.9581379548 -81.2791996258 42.9582404264 -81.2793287115 42.9583634807 -81.2794476018 42.958476331 -81.279535577 42.9586152441 -81.2796190154</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T05:00:00-05:00</starttime>
+    <endtime>2018-04-06T12:00:00-05:00</endtime>
+  </incident>
+  <incident id="20840">
+    <creationtime>2018-04-04T12:31:32-05:00</creationtime>
+    <updatetime>2018-04-04T12:31:32-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>No impact on roadway traffic</description>
+    <location>
+      <street>BLACKACRES BLVD</street>
+      <polyline>43.0096807763 -81.3070426275 43.0097854924 -81.3066571179</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T20:00:00-05:00</starttime>
+    <endtime>2018-04-12T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="17945">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <description>Road closed</description>
+    <location>
+      <street>BLACKFRIARS ST</street>
+      <polyline>42.9891841951 -81.2583288422 42.9891331671 -81.257947752 42.9890533112 -81.257560469 42.9889736535 -81.2571741556</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2017-10-01T20:00:00-05:00</starttime>
+    <endtime>2018-11-01T20:00:00-05:00</endtime>
+  </incident>
+  <incident id="18586">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-03T12:13:39-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>BOLER RD</street>
+      <polyline>42.9596550217 -81.3326490539 42.9610976785 -81.3329862219 42.9615809263 -81.333056054 42.9618361558 -81.333030541 42.9623231824 -81.3328293956 42.9628272042 -81.3321903008 42.9633364122 -81.3315446157 42.963590192 -81.3312228113 42.9637114221 -81.331095734 42.9638526602 -81.3310158207 42.9640236736 -81.3309608569</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-02-14T19:00:00-05:00</starttime>
+    <endtime>2018-05-31T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="20786">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Byron Baseline Rd</street>
+      <polyline>42.9525985967 -81.3372065496 42.9526014976 -81.3371780038 42.952632687 -81.3367392915 42.9527661913 -81.3352638707 42.9529867434 -81.3327976996 42.9530528337 -81.3319489616 42.9531259233 -81.331161062 42.9533584999 -81.3283380963 42.953394533 -81.3279869333 42.953582539 -81.3257734947 42.953686267 -81.3246373478 42.9538609937 -81.3225480717 42.9539962473 -81.3212310174 42.9539976549 -81.3212165462</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-28T05:00:00-05:00</starttime>
+    <endtime>2018-04-06T12:00:00-05:00</endtime>
+  </incident>
+  <incident id="20802">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>Chapple Hill Rd</street>
+      <polyline>43.008633322 -81.3125985394 43.0080124292 -81.3122790414 43.0079869604 -81.3122561743 43.0079653176 -81.312217222 43.0079531387 -81.3121754746 43.0079504107 -81.3121356696 43.0079590952 -81.3120722371 43.0083393091 -81.3106753638 43.0084011727 -81.3105288254 43.0084922832 -81.3104255998 43.0086078658 -81.3103456501 43.0088569553 -81.3102000479 43.009123799 -81.3100587647</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-27T20:00:00-05:00</starttime>
+    <endtime>2018-06-04T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="20812">
+    <creationtime>2018-04-04T12:20:10-05:00</creationtime>
+    <updatetime>2018-04-04T12:20:10-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>No impact on road or pedestrian traffic</description>
+    <location>
+      <street>Colborne St</street>
+      <polyline>42.9864420614 -81.2396941141 42.985342776 -81.239137164</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-04T05:00:00-05:00</starttime>
+    <endtime>2018-04-18T13:00:00-05:00</endtime>
+  </incident>
+  <incident id="20837">
+    <creationtime>2018-04-04T12:20:10-05:00</creationtime>
+    <updatetime>2018-04-04T12:20:10-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>COMMISSIONERS RD E</street>
+      <polyline>42.96352438 -81.1406439625 42.9624679939 -81.1445041545</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-04T05:00:00-05:00</starttime>
+    <endtime>2018-04-06T14:00:00-05:00</endtime>
+  </incident>
+  <incident id="18588">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>COMMISSIONERS RD W</street>
+      <polyline>42.9579151145 -81.3260616687 42.9575370813 -81.3246580771 42.9570032239 -81.3229989094</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-02-20T19:00:00-05:00</starttime>
+    <endtime>2018-05-30T20:00:00-05:00</endtime>
+  </incident>
+  <incident id="18784">
+    <creationtime>2018-04-03T12:13:39-05:00</creationtime>
+    <updatetime>2018-04-03T12:13:39-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <description>Road closed</description>
+    <location>
+      <street>Coronation Dr</street>
+      <polyline>43.0010186348 -81.3285577438 43.001040419 -81.3285662162 43.0012140619 -81.3285860749 43.0013251192 -81.3286245311 43.0014708079 -81.3287010377 43.0024971152 -81.329229811 43.0027889747 -81.3293801866 43.0028243418 -81.3293994051 43.0032651764 -81.3296389606 43.0039673497 -81.3299984211 43.0039997304 -81.3300151999</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T04:00:00-05:00</starttime>
+    <endtime>2018-05-15T12:00:00-05:00</endtime>
+  </incident>
+  <incident id="20810">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>Crabtree Ave</street>
+      <polyline>43.0106693268 -81.3099308399 43.0104448706 -81.3098042502 43.0100987044 -81.3096307982 43.010048242 -81.3095681103 43.010001822 -81.3094508163 43.0099910798 -81.3093962131</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-27T20:00:00-05:00</starttime>
+    <endtime>2018-06-07T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="20839">
+    <creationtime>2018-04-04T12:20:10-05:00</creationtime>
+    <updatetime>2018-04-04T12:20:10-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Road closed, local traffic only</description>
+    <location>
+      <street>CUTHBERT CIR</street>
+      <polyline>42.9572863434 -81.1708607739 42.957279298 -81.1708938386</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-04T04:00:00-05:00</starttime>
+    <endtime>2018-04-04T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="20834">
+    <creationtime>2018-04-04T12:20:10-05:00</creationtime>
+    <updatetime>2018-04-04T12:20:10-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Dundas St</street>
+      <polyline>42.9873526022 -81.2368458567 42.9881080953 -81.2341964853 42.988850365 -81.2315921326</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-04T05:00:00-05:00</starttime>
+    <endtime>2018-04-06T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="20819">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Caution workers present</description>
+    <location>
+      <street>East Mile Rd</street>
+      <polyline>42.9738710406 -81.2995302779 42.9738628307 -81.2995096035 42.9738160072 -81.2994667657 42.9727448948 -81.2988632728</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-02T04:00:00-05:00</starttime>
+    <endtime>2018-05-31T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="20790">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Egerton St</street>
+      <polyline>42.9897449649 -81.2162565559 42.9897433956 -81.2162558794 42.9887953341 -81.2158420677 42.987929733 -81.2154561472 42.987427249 -81.2152321242 42.9866027592 -81.2148645509 42.9863311123 -81.2147434475 42.9860805089 -81.2146317269 42.9855545299 -81.2143984254 42.9850581278 -81.2141795029 42.9842197641 -81.2138097781 42.98340352 -81.2134498173 42.982486985 -81.2130456421 42.9814953433 -81.2125991341 42.9804398321 -81.212119436 42.9802749926 -81.2120503695 42.9800540359 -81.2119690936 42.9794412819 -81.2116555589</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-27T05:00:00-05:00</starttime>
+    <endtime>2018-04-27T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="20822">
+    <creationtime>2018-04-03T12:13:39-05:00</creationtime>
+    <updatetime>2018-04-03T12:13:39-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Road closed, local traffic only</description>
+    <location>
+      <street>Emery St E</street>
+      <polyline>42.9655929057 -81.2371619765 42.9660028486 -81.2321995014</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T04:00:00-05:00</starttime>
+    <endtime>2018-04-05T14:00:00-05:00</endtime>
+  </incident>
+  <incident id="18777">
+    <creationtime>2018-04-03T12:13:39-05:00</creationtime>
+    <updatetime>2018-04-03T16:44:13-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Fanshawe Park Rd W</street>
+      <polyline>43.0185139283 -81.3103580499 43.0186204996 -81.3100546968 43.0187177437 -81.3097499335 43.0188189614 -81.3094026813 43.0190878469 -81.3083800409 43.0194393338 -81.3071574361 43.0199655159 -81.3053516895 43.0201662739 -81.3046629042</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T05:00:00-05:00</starttime>
+    <endtime>2018-04-05T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="18587">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>FLINT LANE (PVT)</street>
+      <polyline>42.9595087786 -81.3289475938 42.9594503811 -81.3287539121 42.9582859898 -81.3263716175 42.9580524331 -81.3258210013 42.9579558114 -81.3255158914 42.9578954347 -81.3251939609 42.9577821944 -81.3242119232 42.9577121263 -81.3229529778 42.9576535058 -81.3215457238</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-02-20T19:01:00-05:00</starttime>
+    <endtime>2018-05-31T14:00:00-05:00</endtime>
+  </incident>
+  <incident id="20789">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Caution workers present</description>
+    <location>
+      <street>Florence St</street>
+      <polyline>42.9897558904 -81.2162109795 42.9897433956 -81.2162558794 42.9895532784 -81.2164224423 42.9894069464 -81.2165942999 42.9892995851 -81.2167464047 42.9892164583 -81.2169516298 42.9891129381 -81.2172650677 42.9885634374 -81.2191682248 42.9877635576 -81.2219382936 42.9876214388 -81.2223764026 42.9875926629 -81.22264513 42.9876062116 -81.2229423082 42.9876482052 -81.2231405472 42.9877088171 -81.2232830658</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-27T05:00:00-05:00</starttime>
+    <endtime>2018-04-27T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="20799">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>No impact on road or pedestrian traffic</description>
+    <location>
+      <street>Florence St</street>
+      <polyline>42.9885458762 -81.2192290455 42.9885634374 -81.2191682248 42.9891129381 -81.2172650677 42.9892164583 -81.2169516298 42.9892995851 -81.2167464047 42.9894069464 -81.2165942999 42.9895532784 -81.2164224423 42.9897433956 -81.2162558794 42.9897449823 -81.2162501786</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-28T05:00:00-05:00</starttime>
+    <endtime>2018-04-06T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="18589">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>HALLS MILL RD</street>
+      <polyline>42.9604472662 -81.3349725098 42.9609635676 -81.3345843642 42.9613542485 -81.334162972 42.9623231824 -81.3328293956</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-27T20:00:00-05:00</starttime>
+    <endtime>2018-05-30T20:00:00-05:00</endtime>
+  </incident>
+  <incident id="18398">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>channelled lanes</description>
+    <location>
+      <street>HIGHBURY AVE S</street>
+      <polyline>42.9179243288 -81.171269948 42.9174794091 -81.1711602328 42.9170342636 -81.1710526454</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2017-12-11T04:00:00-05:00</starttime>
+    <endtime>2018-07-24T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="18687">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>HIGHBURY AVE S</street>
+      <polyline>42.9296814632 -81.1747052933 42.9321510808 -81.1755925415</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-02T04:00:00-05:00</starttime>
+    <endtime>2018-06-01T12:00:00-05:00</endtime>
+  </incident>
+  <incident id="20801">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>Homestead Cres</street>
+      <polyline>43.0095922922 -81.3070196003 43.0095173736 -81.3069762937 43.0077978608 -81.3061405474 43.0073408169 -81.3059080262 43.0074132796 -81.3056428279 43.0074219583 -81.3056052114 43.0074268208 -81.3055688753 43.0074269282 -81.3055286187 43.0074194043 -81.3054909231 43.0074080477 -81.3054609989 43.0073938182 -81.3054362556 43.0073767122 -81.3054179901 43.0073529294 -81.3054022892 43.0073205563 -81.3053904416 43.0072900567 -81.3053915887 43.0072671702 -81.3053966705 43.0072423497 -81.3054121305 43.0072213306 -81.3054315052 43.0072050674 -81.3054547992 43.0071916347 -81.305488495 43.0071445034 -81.305650585 43.0071120948 -81.3057865548</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-26T20:00:00-05:00</starttime>
+    <endtime>2018-06-04T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="18509">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>ROAD_CLOSED</type>
+    <description>Road closed, Detour</description>
+    <location>
+      <street>KILALLY RD</street>
+      <polyline>43.0329571658 -81.216002628 43.0327892886 -81.2165748839 43.0326202748 -81.2171466036</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-01-21T19:00:00-05:00</starttime>
+    <endtime>2018-09-27T20:00:00-05:00</endtime>
+  </incident>
+  <incident id="18782">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>King St</street>
+      <polyline>42.9813451251 -81.253400483 42.9814075327 -81.2531593988 42.9819160013 -81.2512416715</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-27T05:00:00-05:00</starttime>
+    <endtime>2018-04-09T12:00:00-05:00</endtime>
+  </incident>
+  <incident id="20803">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>Limberlost Rd</street>
+      <polyline>43.0072604198 -81.3105996864 43.0059144171 -81.3099054131 43.0053977904 -81.3096379946</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-29T20:00:00-05:00</starttime>
+    <endtime>2018-06-20T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="20816">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-04T12:31:32-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Road closed, local traffic only</description>
+    <location>
+      <street>North Mile Rd</street>
+      <polyline>42.9731316202 -81.3022501701 42.9731712832 -81.3022014202 42.9732146017 -81.3020897771 42.9735225246 -81.3010100135 42.9738699413 -81.29978129 42.9738850598 -81.2996703017</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-02T04:00:00-05:00</starttime>
+    <endtime>2018-05-31T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="20787">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Oxford St E</street>
+      <polyline>42.9998055674 -81.238674583 42.9997688913 -81.2387955815</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-01T20:00:00-05:00</starttime>
+    <endtime>2018-04-05T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="20829">
+    <creationtime>2018-04-04T12:20:10-05:00</creationtime>
+    <updatetime>2018-04-04T12:20:10-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Oxford St W</street>
+      <polyline>42.9926764816 -81.2625300968 42.9928423842 -81.2619370349</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-04T05:00:00-05:00</starttime>
+    <endtime>2018-04-20T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="18660">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>REBECCA RD</street>
+      <polyline>43.0489358231 -81.147953061 43.0485119726 -81.1477382186 43.0480879298 -81.1475241976</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-19T04:00:00-05:00</starttime>
+    <endtime>2018-04-19T13:00:00-05:00</endtime>
+  </incident>
+  <incident id="20788">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:54:08-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Rectory St</street>
+      <polyline>42.9877338219 -81.2233382844 42.9877725088 -81.2233179202 42.9885193112 -81.223679049 42.9894759113 -81.2241019109</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-26T04:00:00-05:00</starttime>
+    <endtime>2018-04-27T12:00:00-05:00</endtime>
+  </incident>
+  <incident id="20797">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>No impact on roadway traffic, Sidewalk closed</description>
+    <location>
+      <street>Sarnia Rd</street>
+      <polyline>42.9916748854 -81.3120122578 42.9916592854 -81.3120573644 42.9914974504 -81.3126173392 42.9906889532 -81.3153664676 42.9903402253 -81.3165728343 42.9898357303 -81.3183179506 42.9898294637 -81.3183396278</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-29T05:00:00-05:00</starttime>
+    <endtime>2018-04-10T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="20805">
+    <creationtime>2018-04-04T07:22:52-05:00</creationtime>
+    <updatetime>2018-04-04T07:22:52-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>Scotchpine Cres</street>
+      <polyline>43.0081432464 -81.3088005611 43.0080300929 -81.3092249186 43.0080012438 -81.3092790931 43.0076650169 -81.3097822586 43.0074128864 -81.3106783319 43.007153818 -81.3116206309 43.007137759 -81.3116620877 43.0070961949 -81.3117002203 43.0070515378 -81.3117031897 43.0069846437 -81.3116740953 43.0058836021 -81.3111098953 43.0056870357 -81.3110071622 43.005664781 -81.3109814882 43.0056489748 -81.3109302876 43.0056490877 -81.3108887513 43.0058721644 -81.3100620093</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T20:00:00-05:00</starttime>
+    <endtime>2018-06-15T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="19785">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Caution workers present</description>
+    <location>
+      <street>Singleton Ave</street>
+      <polyline>42.9380946672 -81.2694770991 42.9381070667 -81.2693147635 42.9381117689 -81.2691211417 42.9381077938 -81.2690055173 42.9380932347 -81.2688753954 42.9380701682 -81.2687510179 42.9380428344 -81.2686352921 42.9380048488 -81.2685339703 42.937960486 -81.2684355123 42.9379245761 -81.2683544313 42.9378738024 -81.268273286 42.9378230209 -81.2681950307 42.93777222 -81.2681254469 42.9377065679 -81.2680500174 42.9376175362 -81.2679831581 42.9375327251 -81.2679278774 42.93744575 -81.2678899275 42.9373651324 -81.2678577866 42.9372866162 -81.2678343249 42.937188997 -81.2678078905 42.9370764784 -81.2677958429 42.9369848846 -81.2677782592 42.9365765887 -81.2677316377</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-26T05:00:00-05:00</starttime>
+    <endtime>2018-04-06T12:00:00-05:00</endtime>
+  </incident>
+  <incident id="20827">
+    <creationtime>2018-04-03T12:13:39-05:00</creationtime>
+    <updatetime>2018-04-03T12:13:39-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>No impact on roadway traffic, Sidewalk closed</description>
+    <location>
+      <street>Sunningdale Rd E</street>
+      <polyline>43.045273918 -81.2653802986 43.0458063923 -81.2636098565</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T05:00:00-05:00</starttime>
+    <endtime>2018-04-12T11:00:00-05:00</endtime>
+  </incident>
+  <incident id="18773">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>Thames St</street>
+      <polyline>42.9806213521 -81.2554477558 42.980649094 -81.2554530685 42.9807453941 -81.2554234686 42.980768742 -81.2553813423</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-27T05:00:00-05:00</starttime>
+    <endtime>2018-04-09T13:00:00-05:00</endtime>
+  </incident>
+  <incident id="20820">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-04T12:31:32-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Road closed, local traffic only</description>
+    <location>
+      <street>West Mile Rd</street>
+      <polyline>42.973091202 -81.3022725514 42.973085039 -81.3022755687 42.9730107401 -81.3022698776 42.9729325866 -81.3022428627 42.9722033908 -81.3018873851 42.9708233374 -81.3011672896 42.9707413839 -81.3010976487 42.9706265714 -81.3009595647 42.9705542198 -81.300878362 42.9702027979 -81.3006529495 42.9691013581 -81.3000670425 42.9684222152 -81.299716474</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-02T04:00:00-05:00</starttime>
+    <endtime>2018-09-14T19:00:00-05:00</endtime>
+  </incident>
+  <incident id="20814">
+    <creationtime>2018-04-03T12:13:39-05:00</creationtime>
+    <updatetime>2018-04-04T12:31:32-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>Western Rd</street>
+      <polyline>42.9969168813 -81.2753380609 42.9967467758 -81.2750984908 42.99664634 -81.2748729359 42.9965910667 -81.2747488073 42.996449774 -81.2743216341 42.9964075904 -81.2741081741 42.9963940078 -81.2738366766 42.9963953507 -81.2732744176 42.9964415141 -81.2724919235 42.9964479792 -81.2723033284 42.996436404 -81.2721064538 42.9964189246 -81.2718603488 42.9961701322 -81.2704713292 42.9958193403 -81.2685129301 42.9956018434 -81.2673093622 42.9955541432 -81.2671123335 42.9955092559 -81.2669890589 42.995488344 -81.2669316288</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T03:00:00-05:00</starttime>
+    <endtime>2018-11-30T18:00:00-05:00</endtime>
+  </incident>
+  <incident id="12167">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>WHARNCLIFFE RD N</street>
+      <polyline>42.9920038159 -81.2648936585 42.9923954161 -81.2650853942 42.9929784581 -81.2654569635 42.9934114685 -81.2656392457 42.9935792526 -81.265679083</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2017-05-14T20:00:00-05:00</starttime>
+    <endtime>2019-06-27T20:00:00-05:00</endtime>
+  </incident>
+  <incident id="18774">
+    <creationtime>2018-04-03T12:13:39-05:00</creationtime>
+    <updatetime>2018-04-03T12:13:39-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>No impact on roadway traffic</description>
+    <location>
+      <street>Wharncliffe Rd N</street>
+      <polyline>42.9954237583 -81.2668104651 42.9952963771 -81.2666437672 42.9951136462 -81.2665183128 42.9950559636 -81.2664787112 42.994715962 -81.2662960039 42.994009812 -81.2659165457 42.9936908501 -81.2657287008</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-03-21T04:00:00-05:00</starttime>
+    <endtime>2018-04-06T12:00:00-05:00</endtime>
+  </incident>
+  <incident id="20818">
+    <creationtime>2018-04-03T12:13:39-05:00</creationtime>
+    <updatetime>2018-04-04T12:31:32-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Lane restrictions and delays</description>
+    <location>
+      <street>Wharncliffe Rd N</street>
+      <polyline>42.9954743578 -81.2669047742 42.9954284133 -81.2668165566 42.9952963771 -81.2666437672 42.9951136462 -81.2665183128 42.9950559636 -81.2664787112 42.994715962 -81.2662960039 42.994009812 -81.2659165457 42.9936954266 -81.2657313961</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-03T03:00:00-05:00</starttime>
+    <endtime>2018-11-30T18:00:00-05:00</endtime>
+  </incident>
+  <incident id="18686">
+    <creationtime>2018-04-02T21:50:41-05:00</creationtime>
+    <updatetime>2018-04-02T21:50:41-05:00</updatetime>
+    <source>
+      <reference>RenewLondon</reference>
+      <name>Corporation of the City of London</name>
+      <url>https://apps.london.ca/RenewLondon</url>
+    </source>
+    <type>CONSTRUCTION</type>
+    <description>Channel lanes</description>
+    <location>
+      <street>WILTON GROVE RD</street>
+      <polyline>42.9284136101 -81.1894541233 42.9287863891 -81.1850718146 42.9288116352 -81.1850528331 42.9287928782 -81.184998819 42.9289761379 -81.1829883931 42.9295296516 -81.1768571188 42.9295905589 -81.1757574709 42.9296814632 -81.1747052933</polyline>
+      <direction>BOTH_DIRECTIONS</direction>
+    </location>
+    <starttime>2018-04-01T04:00:00-05:00</starttime>
+    <endtime>2018-06-01T12:00:00-05:00</endtime>
+  </incident>
+</incidents>
