@@ -332,6 +332,7 @@ def query_gis():
 		print(msg)
 		msg_log(curUnixTime, msg)
 		subprocess.getoutput('reboot')
+		time.sleep(secSleep) # Pause to allow reboot to occur
 		return False
 
 # Function to Handle Database Update
